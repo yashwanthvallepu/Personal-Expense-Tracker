@@ -1,0 +1,4 @@
+target/
+.vscode/.classpath
+.vscode/.project
+src/main/resources/db.properties
